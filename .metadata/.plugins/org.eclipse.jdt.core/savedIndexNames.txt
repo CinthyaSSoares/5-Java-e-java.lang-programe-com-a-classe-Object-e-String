@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\user\Documents\Programação\ONE\Java e Orientacao a Objetos\5-Java e java.lang programe com a classe Object e String\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3163700490.index
+404861663.index
